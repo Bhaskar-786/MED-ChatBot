@@ -54,4 +54,7 @@ python app.py
 ```
 **Now, you should have Med-BOT up and running, ready to predict diseases based on patient symptoms.**
 
+if you have issues setting itup locally due to some version related issues, you can dirrectly find the zipped venv file on this link https://drive.google.com/drive/folders/1daHF8yB6vB97LSpwl0b5kBWB08A2qAQj 
+star it if you found it helpful ;) 
+
 Medical DataSet available!
